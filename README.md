@@ -1,4 +1,4 @@
-# REST-API-for-a-catalog-of-audiovisual-pieces
+# REST API for a catalog of audiovisual pieces
 Implementation of a simple REST API for a catalog of audiovisual pieces, as a project of my Data Representation course.
 The service must at least support through that API the following operations:
 - Get a list of all parts in the collection.
