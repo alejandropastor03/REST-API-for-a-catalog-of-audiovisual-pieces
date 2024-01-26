@@ -3,7 +3,7 @@ Implementation of a simple REST API for a catalog of audiovisual pieces, as a pr
 The service must at least support through that API the following operations:
 - Get a list of all parts in the collection.
 - Add a new part
-- Edit a part in the collection
+- Edit a part of the collection
 - Remove a part from the collection
 - Get a list of all production companies
 - Add a new production company
